@@ -1,2 +1,2 @@
-# spotifyWhatsPlaying-releases
-the public releases of spotifyWhatsPlaying
+# whatsPlaying-releases
+the public releases of whatsPlaying
