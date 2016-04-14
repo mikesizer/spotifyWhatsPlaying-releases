@@ -16,6 +16,7 @@ a {
     text-decoration: underline; }
 
 .btn {
+  font-size:18px;
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
@@ -102,7 +103,17 @@ a {
 
 @media screen and (max-width: 42em) {
   .project-tagline {
-    font-size: 1rem; } }
+    font-size: 1rem;
+    
+  } 
+  
+  
+  .project-tagline img{
+    width: 280px;
+  }
+}
+  
+  
 
 .main-content :first-child {
   margin-top: 0; }
